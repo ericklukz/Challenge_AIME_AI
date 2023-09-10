@@ -25,6 +25,6 @@ Na tela do chat entre o inspetor de recursos (F12) e procure a aba "Aplicação"
 
 Nesta aba procure os seguintes valores:
 
-  *__Secure-1PSID*
+  ## *__Secure-1PSID*
   
-  *__Secure-1PSIDTS*
+  ## *__Secure-1PSIDTS*
