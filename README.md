@@ -19,7 +19,7 @@ pip install bardapi
 
 # Valores
 
-Após instalar, entre no site do Google Bard ( bard.google.com ), conecte com a sua conta e entre na tela do chat.
+Após instalar, entre no site do [Google Bard](http://bard.google.com), conecte com a sua conta e entre na tela do chat.
 
 Na tela do chat entre o inspetor de recursos (F12) e procure a aba "Aplicação" ou "Application".
 
@@ -33,4 +33,4 @@ Após encontra-los substitua os mesmos no código (linhas 10 e 11).
 
 Lembrando que o valor de *__Secure-1PSID* sempre termina com um ponto (.)
 
-[Flex Grid](http://exemplo.com/)
+
