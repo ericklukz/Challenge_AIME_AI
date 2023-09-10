@@ -28,3 +28,7 @@ Nesta aba procure os seguintes valores:
   ## *__Secure-1PSID*
   
   ## *__Secure-1PSIDTS*
+
+Após encontra-los substitua os mesmos no código (linhas 10 e 11).
+
+Lembrando que o valor de *__Secure-1PSID* sempre termina com um ponto (.)
