@@ -20,7 +20,11 @@ pip install bardapi
 # Valores
 
 Após instalar, entre no site do Google Bard ( bard.google.com ), conecte com a sua conta e entre na tela do chat.
+
 Na tela do chat entre o inspetor de recursos (F12) e procure a aba "Aplicação" ou "Application".
+
 Nesta aba procure os seguintes valores:
+
   *__Secure-1PSID*
+  
   *__Secure-1PSIDTS*
