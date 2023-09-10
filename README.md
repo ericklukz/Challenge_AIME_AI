@@ -9,7 +9,7 @@ Abaixo, segue o processo de instalação e uso do código apresentado no vídeo.
 
 # Instalações
 
-No terminal da IDE use o seguinte comando:
+No terminal da IDE use os seguintes comandos:
 ```
 pip install SpeechRecognizer
 pip install pyttsx3
